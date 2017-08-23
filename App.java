@@ -15,7 +15,7 @@ public class App {
 
 			for (int colStar = 1; colStar <= row; colStar++) {
 
-				System.out.print(row+" ");
+				System.out.print("*"+" ");
 
 			}
 
